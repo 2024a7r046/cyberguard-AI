@@ -15,7 +15,7 @@ The project analyzes DNS domains and assigns a risk score based on suspicious ch
 
 # How It Works
 
-```text
+``text
 DNS Domain
     ↓
 Domain Feature Analysis
@@ -27,6 +27,8 @@ Risk Scoring
 LOW / MEDIUM / HIGH / CRITICAL
     ↓
 Reasons for the Risk
-## 🚀 Live Demo
+## Live Demo
 
 [Open CyberGuard AI Prototype](https://2024a7r046-cyberguard-ai-app-ojxch0.streamlit.app)
+
+
