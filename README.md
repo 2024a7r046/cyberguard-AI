@@ -27,3 +27,6 @@ Risk Scoring
 LOW / MEDIUM / HIGH / CRITICAL
     ↓
 Reasons for the Risk
+## 🚀 Live Demo
+
+[Open CyberGuard AI Prototype](https://2024a7r046-cyberguard-ai-app-ojxch0.streamlit.app)
